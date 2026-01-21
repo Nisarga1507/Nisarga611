@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+I'm Nisarga, an Msc Data Science student at Newcastle Universtiy.
+Currently I'm learning:
+- Python
+- Machine Learning
+- Deep Learning
+- Image Processing
+- Data Visualization
+- 
 <!--
 **Nisarga611/Nisarga611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
